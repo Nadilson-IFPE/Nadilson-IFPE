@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Olá!&animation=fadeIn&fontSize=65&textBg=false&strokeWidth=2"/>
 </p> 
 
-<p>Caso tenha chegado ao meu perfil agora, deve ter percebido que não está havendo ativdade há algum tempo. Eu tenho estado ausente nas atividades de programação há alguns meses porque meu notebook parou de funcionar e não estou podendo adquirir outro, por enquanto. Assim que for possivel, eu voltarei a criar ou atualizar meus repositórios e melhorar meu Stats do Github, que vem decaindo por falta de atividade.</p>
+<p>Caso tenha chegado ao meu perfil agora, deve ter percebido que não está havendo atividade há algum tempo. Eu tenho estado ausente nas atividades de programação há alguns meses porque meu notebook parou de funcionar e não estou podendo adquirir outro, por enquanto. Assim que for possivel, eu voltarei a criar ou atualizar meus repositórios e melhorar meu Stats do Github, que vem decaindo por falta de atividade.</p>
 
 <br />
 
@@ -14,8 +14,10 @@
 
 <br />
 
+<!-- 
+![Nadilson's Github stats](https://github-readme-stats.vercel.app/api?username=Nadilson-IFPE&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-![Nadilson's Github stats](https://github-readme-stats.vercel.app/api?username=Nadilson-IFPE&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Nadilson's Github stats](https://awesome-github-stats.azurewebsites.net/user-stats/Nadilson-IFPE?cardType=level&theme=prussian&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 About Github Stats: [Academic grading in Japan](https://en.wikipedia.org/wiki/Academic_grading_in_Japan)
 
